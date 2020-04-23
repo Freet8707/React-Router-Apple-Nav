@@ -14,6 +14,8 @@
 - [ ] You'll need to build out a few components here. Some variation of a `NavWrapper` component which will be your navigation header.
 - [ ] Lastly you're going to need some sort of `SubNav` component, that will be reusable and display your sub-navigation links for each category.
 
+- [ ] Commencing Project
+
 ### Stretch Problem
 
 - [ ] Once you are finished with the Navigation and SubNavigation components you'll be able to look into ways to extend this application by adding some smooth transitions. Look into [this article](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a) for an example of how this can be achieved.
